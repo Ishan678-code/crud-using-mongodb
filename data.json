@@ -1,0 +1,55 @@
+{
+    "name": "Ishan Awasthi",
+    "email": "awasthishrey11@gmail.com",
+    "phone": "9808243629",
+
+    "skills": [
+        "#PHP",
+        "#JavaScript",
+        "#CSS",
+        "#Codeigniter",
+        "#Laravel",
+        "#VueJS",
+        "#NodeJS",
+        "#ReactJS"
+    ],
+    "education": [
+        {
+            "school_name": "University of Portsmouth",
+            "logo": "portsmouth.jpg",
+            "level": "Bachelor's Degree",
+            "title": "Bsc Honors In Computing",
+            "year": "2008-2011"
+        },
+        {
+            "school_name": "Informatics Academy Kathmandu",
+            "logo": "informatis.jpg",
+            "level": "Diploma",
+            "title": "Bsc Honors In Computing ",
+            "year": "2008-2010"
+        }
+    ],
+    "experiences": [
+        {
+            "company": "GitHub",
+            "company_logo": "github.png",
+            "postion": "Senior Developer",
+            "duties": [
+                "Research And Development",
+                "Frontend Development"
+            ]
+        },
+        {
+            "company": "HyperLoop",
+            "company_logo": "hyperLoop.png",
+            "postion": "Lead Developer",
+            "work_year": "2016 - 2017",
+            "duties": [
+                "Research And Development",
+                "Rest API Service Development",
+                "Develop And Support Laravel Powered System"
+            ]
+        }
+    ]
+    
+}
